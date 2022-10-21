@@ -23,6 +23,7 @@ maid
 miko
 nontraditional miko
 military uniform
+police uniform
 overalls
 pajamas
 pilot suit
