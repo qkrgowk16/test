@@ -21,7 +21,6 @@ all fours
 top-down bottom-up
 fighting stance
 squatting
-upside-down
 arm support
 looking at viewer
 looking to the side
