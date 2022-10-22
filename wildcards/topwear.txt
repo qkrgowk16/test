@@ -1,7 +1,32 @@
+blouse
+sleeveless shirt
+crop top
+camisole
+cardigan
+coat
+corset
 dress
+halterneck
+halterneck
+hoodie
 jacket
+blazer
+cropped jacket
+raglan sleeves
 sash
 shirt
+collared shirt
+dress shirt
+sleeveless shirt
+t-shirt
 sweater
 turtleneck
+sleeveless turtleneck
+sweater dress
+ribbed sweater
+tabard
+tank top
+bandeau
+underbust
 vest
+sweater vest
