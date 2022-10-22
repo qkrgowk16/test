@@ -1,36 +1,40 @@
+animal costume
 apron
 armor
 armored dress
+bikini
 bikini armor
+bodysuit
+buruma
 cape
 capelet
-hood
 cheerleader
+competition swimsuit
 gym uniform
-buruma
+hood
+kita high school uniform
+leotard
 loincloth
-animal costume
 maid
+micro bikini
 miko
-nontraditional miko
+military hat
 military uniform
+nontraditional miko
+nurse
 overalls
 pajamas
 pilot suit
 plugsuit
+robe
+sailor dress
 santa costume
+sarong
+school swimsuit
 school uniform
 serafuku
-sailor dress
-suit
-waitress
-bodysuit
-leotard
-swimsuit
-competition swimsuit
-school swimsuit
-bikini
+sportswear
 string bikini
-micro bikini
-robe
-sarong
+suit
+swimsuit
+waitress
