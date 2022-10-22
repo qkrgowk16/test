@@ -7,7 +7,6 @@ coat
 corset
 dress
 halterneck
-halterneck
 hoodie
 jacket
 blazer
