@@ -18,7 +18,6 @@ jumping
 running
 walking
 all fours
-top-down bottom-up
 fighting stance
 squatting
 arm support
