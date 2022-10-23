@@ -1,31 +1,38 @@
+bandeau
+bikini
+blazer
 blouse
-sleeveless shirt
-crop top
+bra
 camisole
 cardigan
+center_opening
+cleavage_cutout
 coat
+collared shirt
 corset
+crop top
+cropped jacket
 dress
+dress shirt
 halterneck
 hoodie
 jacket
-blazer
-cropped jacket
+no_bra
 raglan sleeves
+rei_no_himo
+ribbed sweater
+sarashi
 sash
 shirt
-collared shirt
-dress shirt
 sleeveless shirt
-t-shirt
-sweater
-turtleneck
 sleeveless turtleneck
+sweater
 sweater dress
-ribbed sweater
+sweater vest
 tabard
 tank top
-bandeau
+taut_shirt
+t-shirt
+turtleneck
 underbust
 vest
-sweater vest
