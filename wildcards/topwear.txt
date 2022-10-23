@@ -5,8 +5,8 @@ blouse
 bra
 camisole
 cardigan
-center_opening
-cleavage_cutout
+center opening
+cleavage cutout
 coat
 collared shirt
 corset
@@ -17,9 +17,9 @@ dress shirt
 halterneck
 hoodie
 jacket
-no_bra
+no bra
 raglan sleeves
-rei_no_himo
+rei no himo
 ribbed sweater
 sarashi
 sash
@@ -31,7 +31,7 @@ sweater dress
 sweater vest
 tabard
 tank top
-taut_shirt
+taut shirt
 t-shirt
 turtleneck
 underbust
