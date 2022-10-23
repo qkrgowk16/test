@@ -1,17 +1,17 @@
 angry
-anger_vein
-clenched_teeth
+anger vein
+clenched teeth
 blush
-blush_stickers
+blush stickers
 embarrassed
-full-face_blush
-nose_blush
-closed_eyes
+full-face blush
+nose blush
+closed eyes
 expressionless
 happy
-one_eye_closed
-open_mouth
-parted_lips
+one eye closed
+open mouth
+parted lips
 pout
 sad
 frown
@@ -21,15 +21,15 @@ sleepy
 surprised
 wince
 ahegao
-naughty_face
+naughty face
 smile
 grin
-light_smile
+light smile
 smirk
 surprised
 sad
 trembling
-wavy_mouth
+wavy mouth
 o_o
-no_nose
-wavy_mouth
+no nose
+wavy mouth
